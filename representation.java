@@ -1,0 +1,3 @@
+compareTo()
+hashCode()
+equals()
